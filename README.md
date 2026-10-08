@@ -1,7 +1,4 @@
-
-<div align="center">
-  <img src="./banner.png" alt="Gestão, Data Analytics e Business" width="100%">
-</div>
+<img src="./banner.png" alt="Gestão, Data Analytics e Business" width="100%">
 
 <div align="center">
 
