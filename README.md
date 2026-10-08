@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="./banner.png" alt="Gestão, Data Analytics e Business" width="100%">
+</div>
+
+<div align="center">
 
 # 👋 Hi, I'm Fabrício | Olá, sou o Fabrício
 
@@ -7,6 +11,7 @@
 ### Gestão • Análise de Dados • Negócios
 
 *Connecting data, people and strategy to improve business decisions.*
+
 *Conectando dados, pessoas e estratégia para melhorar decisões empresariais.*
 
 </div>
@@ -31,15 +36,10 @@
 
 ## 🛠️ Technologies & Tools | Tecnologias e Ferramentas
 
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql" height="50" alt="Python e MySQL" />
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
-  <img src="https://img.icons8.com/color/96/power-bi.png" height="50" alt="Power BI" />
-</div>
-
-</div>
-
+  <img src="https://skillicons.dev/icons?i=python,mysql" height="50" alt="Python e MySQL">
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50" alt="Excel">
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="50" alt="Power BI">
 </div>
 
 - **Excel:** data organization and analysis.
@@ -71,24 +71,20 @@
 
 ## 📂 Projects | Projetos
 
-I'm building my portfolio as I progress in my studies.
-New projects will be added here as they are developed.
+**EN:** I'm building my portfolio as I progress in my studies. New projects will be added here as they are developed.
 
-Estou construindo meu portfólio conforme avanço nos estudos.
-Novos projetos serão adicionados aqui à medida que forem desenvolvidos.
-
-<!-- Add your real project links here when available.
-     Adicione aqui os links dos seus projetos quando estiverem prontos. -->
+**PT:** Estou construindo meu portfólio conforme avanço nos estudos. Novos projetos serão adicionados aqui à medida que forem desenvolvidos.
 
 ## 🤝 Let's Connect | Vamos nos Conectar
 
-- 💼 [LinkedIn](www.linkedin.com/in/fabrícioslima)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabrícioslima)
 
 ---
 
 <div align="center">
 
 *Always learning. Always improving.*
+
 *Aprendendo sempre. Evoluindo continuamente.*
 
 </div>
