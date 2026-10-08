@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./banner.png" alt="Gestão, Data Analytics e Business" width="100%">
+</div>
+
+<br>
 
 # 👋 Hi, I'm Fabrício | Olá, sou o Fabrício
 
