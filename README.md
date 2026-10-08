@@ -33,7 +33,15 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
 
 </div>
 
