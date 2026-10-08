@@ -36,8 +36,12 @@
 ## 🛠️ Technologies & Tools | Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql" height="50" alt="Python e MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL">
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50" alt="Excel">
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/power-bi.png" height="50" alt="Power BI">
 </div>
 
