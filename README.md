@@ -31,15 +31,12 @@
 
 ## 🛠️ Technologies & Tools | Tecnologias e Ferramentas
 
-<div align="center">
-
 
 <div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  <img src="https://skillicons.dev/icons?i=python,mysql" height="50" alt="Python e MySQL" />
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="50" alt="Power BI" />
+</div>
 
 </div>
 
