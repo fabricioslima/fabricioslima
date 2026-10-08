@@ -28,6 +28,13 @@ Atualmente, desenvolvendo conhecimentos nessas ferramentas para aplicá-los à a
 
 ---
 
+## 🌎 Languages & Communication
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Advanced
+
+---
+
 ## 📚 Objetivos
 
 - Desenvolver habilidades analíticas e estratégicas.
